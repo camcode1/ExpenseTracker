@@ -1,6 +1,6 @@
 # Expense Tracker CLI
 
-A command-line application for managing personal finances, built with Python and SQLite.
+A command-line application for managing finances, built with Python and SQLite.
 
 ## 🚀 About
 This project helps users track their expenses, categorize spending, and monitor budgets through an easy-to-use command-line interface.
