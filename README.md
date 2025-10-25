@@ -21,7 +21,7 @@ This project helps users track their expenses, categorize spending, and monitor 
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/expense-tracker-cli.git
+git clone https://github.com/camcode1/expense-tracker-cli.git
 cd expense-tracker-cli
 python expense_tracker.py --help
 ```
